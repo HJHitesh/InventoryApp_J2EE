@@ -1,0 +1,6 @@
+com/chat/config/HibernateUtil.class
+com/chat/doa/ItemDAO.class
+com/chat/tags/CopyrightTag.class
+com/chat/controller/ProductController.class
+com/chat/entity/Item.class
+com/chat/doa/ItemDAOImpl.class
