@@ -238,7 +238,7 @@ Email: Jhahitesh1994@gmail.com
 ### Task 9: Screenshots for Running App
 
 ### Inventory List
-![Inventory List](screensh/inventory_list.png)
+![Inventory List](https://github.com/HJHitesh/InventoryApp_J2EE/blob/master/src/main/webapp/WEB-INF/images/Inventory_j2eee.png)
 
 
 
